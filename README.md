@@ -1,1 +1,2 @@
-# Medinote
+# Medinote - AI based Medical Transcription App
+
